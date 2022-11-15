@@ -83,8 +83,8 @@
 
 -	Add new File > src > containers > blog >
 	- imports.js
-
 -	npm run build
+-	netlify deploy
 
 
 
