@@ -18,8 +18,11 @@ Learning JavaScript libraries and frameworks can be overwhelming. There are many
 - Perfectly placed media queries for satisfactory responsiveness covering almost  all devices
 
 ## Screenshots
-![Example screenshot](screenshot/screenshot-home.jpg)
-![Example screenshot](screenshot/screenshot-mobil.jpg)
+#Browser
+![Example screenshot](screenshot/screenshot-main.jpg)
+#mobil
+![Example screenshot](screenshot/screenshot-mobile.jpg)
+#tablet
 ![Example screenshot](screenshot/screenshot-tablet.jpg)
 
 
