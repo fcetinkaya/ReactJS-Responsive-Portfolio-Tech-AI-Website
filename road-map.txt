@@ -1,0 +1,105 @@
+-	npx create-react-app ./
+-	src folder delete
+-	Add new folder > src
+-	Add new FileJS > src > index.js
+-	npm i react-icons
+-	Add new folder > src >
+	- components
+	- components > article
+	- components > brand
+	- components > cta
+	- components > feature
+	- components > navbar
+
+-	Add new FileJS > components>article >
+	- Article.jsx
+
+-	Add new file > components>article >
+	- Article.css
+
+-	Add new FileJS > components>brand >
+	- Brand.jsx
+
+-	Add new file > components>brand >
+	- brand.css	
+
+-	Add new FileJS > components>cta >
+	- CTA.jsx
+
+-	Add new file > components>cta >
+	- cta.css
+
+-	Add new FileJS > components>feature >
+	- Feature.jsx
+
+-	Add new file > components>feature >
+	- feature.css
+
+-	Add new FileJS > components>navbar >
+	- Navbar.jsx
+
+-	Add new file > components>navbar >
+	- navbar.css
+
+-	Add new FileJS > components >
+	- index.js
+
+-	Add new FileJS > containers>blog >
+	- Blog.jsx
+
+-	Add new file > containers>blog >
+	- blog.css
+
+-	Add new FileJS > containers>features >
+	- Features.jsx
+
+-	Add new file > containers>features >
+	- features.css	
+
+-	Add new FileJS > containers>footer >
+	- Footer.jsx
+
+-	Add new file > containers>footer >
+	- footer.css
+
+-	Add new FileJS > containers>header >
+	- Header.jsx
+
+-	Add new file > containers>header >
+	- header.css
+
+-	Add new FileJS > containers>posssibility >
+	- Possibility.jsx
+
+-	Add new file > ontainers>posssibility >
+	- posssibility.css
+
+-	Add new FileJS > containers >
+	- index.js
+
+-	Add new File > src > App.css & index.css
+-	Add new File > src > components > brand >
+	- imports.js
+
+-	Add new File > src > containers > blog >
+	- imports.js
+
+-	npm run build
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
