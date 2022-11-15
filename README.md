@@ -19,9 +19,9 @@ Learning JavaScript libraries and frameworks can be overwhelming. There are many
 
 ## Screenshots
 # Browser
-![Example screenshot](screenshot/screenshot-main.jpg)
-# Tablet
 ![Example screenshot](screenshot/screenshot-tablet.jpg)
+# Tablet
+![Example screenshot](screenshot/screenshot-main.jpg)
 # Mobile
 ![Example screenshot](screenshot/screenshot-mobile.jpg)
 
